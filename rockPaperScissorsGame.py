@@ -1,11 +1,3 @@
-# 🧠 CHALLENGE: **“Rock, Paper, Scissors” Game!**
-
-# 🎯 GOAL:
-
-# * You vs Computer
-# * Track scores
-# * Add animations like `“Rock…”` → wait 1s → `“Paper…”` → wait 1s → `“Shoot!”`
-
 import random
 
 rounds = int(

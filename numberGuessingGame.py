@@ -1,10 +1,3 @@
-# Number Guessing Game
-
-# Computer randomly chooses a number
-
-# You guess, it tells you “Too High / Too Low”
-
-# Loop until correct
 import random
 
 tries = 0
