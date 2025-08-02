@@ -33,4 +33,4 @@ friendBirthday = input(
     "Type your friend's birthday in the format, (DD/MM/YYYY) e.g. 02/08/2025 :- ")
 
 with open(birthday_file, "a") as f:
-    f.write(birthday_file)
+    f.write(friendBirthday)
